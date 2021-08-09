@@ -43,7 +43,7 @@ async function connect() {
    
         });
 
-        fs.writeFileSync("images.txt",JSON.stringify(content));
+        fs.writeFileSync("images.json",(content));
  
     }catch(e){
         console.log(e);
