@@ -13,7 +13,7 @@ async function connect() {
        var ind=0;
        var content=[];
         await cursor.forEach(async (res)=>{
-            console.log(ind++);
+            // console.log(ind++);
             if(ind==1){
                 if(res.images && res.images.length>0){
                     for (image of res.images) {
