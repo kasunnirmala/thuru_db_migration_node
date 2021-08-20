@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000fe"
+  },
+  "typeName": "Initial",
+  "metaCode": "INITIAL",
+  "thisUUID": "postType6064ef075ee90"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000ff"
+  },
+  "typeName": "Repeat",
+  "metaCode": "REPEAT",
+  "thisUUID": "postType6064ef0766ef1"
+}]

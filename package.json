@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.964.0",
     "fs": "^0.0.1-security",
     "mongodb": "^3.6.10",
     "mongoose": "^5.13.5",

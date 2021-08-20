@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6064ef07885a00003c00010a"
+  },
+  "categoryName": "Emergent Large",
+  "metaCode": "LARGE",
+  "thisUUID": "treeCategory6064ef077a2d6"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c00010b"
+  },
+  "categoryName": "Canopy",
+  "metaCode": "BIG",
+  "thisUUID": "treeCategory6064ef0780fad"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c00010c"
+  },
+  "categoryName": "Understorey",
+  "metaCode": "MEDIUM",
+  "thisUUID": "treeCategory6064ef078171e"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c00010d"
+  },
+  "categoryName": "Forest Floor",
+  "metaCode": "SMALL",
+  "thisUUID": "treeCategory6064ef0781bc5"
+}]

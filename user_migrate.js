@@ -22,7 +22,6 @@ async function connect() {
     await client.connect();
     connection.connect();
     var thuru_new_db = client.db("thuru_new");
-    var thuru_db = client.db("thuru_db");
     const user = thuru_new_db.collection("User");
     // const result = await user.insertOne({username:"Username"});
     // connection.query('SELECT * from app_users', function (error, results, fields) {
@@ -43,7 +42,7 @@ async function connect() {
         THURU_ORGANIZATION_USER: "ROLE_GROUP_ADMIN",
         ROLE_TRAINEE: "ROLE_USER",
       };
-      var role = await thuru_db
+      var role = await thuru_new_db
         .collection("Role")
         .findOne({ metaCode: map[el.metacode] });
 

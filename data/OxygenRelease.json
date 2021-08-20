@@ -1,0 +1,785 @@
+[{
+  "_id": {
+    "$oid": "606ef08b6c06000051004ae2"
+  },
+  "months": 1,
+  "point": 0.01,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b12b95"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004ae3"
+  },
+  "months": 6,
+  "point": 0.05,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b1370e"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004ae4"
+  },
+  "months": 12,
+  "point": 0.1,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b13745"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004ae5"
+  },
+  "months": 24,
+  "point": 0.2,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b13774"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004ae6"
+  },
+  "months": 36,
+  "point": 0.3,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b137a2"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004ae7"
+  },
+  "months": 48,
+  "point": 0.4,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b137cf"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004ae8"
+  },
+  "months": 60,
+  "point": 0.5,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b13800"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004ae9"
+  },
+  "months": 72,
+  "point": 0.6,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b1382d"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004aea"
+  },
+  "months": 84,
+  "point": 0.7,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b13861"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004aeb"
+  },
+  "months": 96,
+  "point": 0.8,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b1388f"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004aec"
+  },
+  "months": 108,
+  "point": 0.9,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b138be"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004aed"
+  },
+  "months": 120,
+  "point": 1,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b138ec"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004aee"
+  },
+  "months": 180,
+  "point": 1.5,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b1391b"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004aef"
+  },
+  "months": 240,
+  "point": 2,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010a"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef077a2d6",
+  "thisUUID": "OxygenRelease606ef08b13949"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004af0"
+  },
+  "months": 1.2000000000000002,
+  "point": 0.01,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13cd6"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004af1"
+  },
+  "months": 6,
+  "point": 0.03,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13d16"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004af2"
+  },
+  "months": 12,
+  "point": 0.05,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13d47"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004af3"
+  },
+  "months": 24,
+  "point": 0.1,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13d78"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004af4"
+  },
+  "months": 36,
+  "point": 0.15,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13da6"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004af5"
+  },
+  "months": 48,
+  "point": 0.2,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13dd5"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004af6"
+  },
+  "months": 60,
+  "point": 0.25,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13e0c"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004af7"
+  },
+  "months": 72,
+  "point": 0.3,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13e38"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004af8"
+  },
+  "months": 84,
+  "point": 0.35,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13e62"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004af9"
+  },
+  "months": 96,
+  "point": 0.4,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13e92"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004afa"
+  },
+  "months": 108,
+  "point": 0.45,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13ecf"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004afb"
+  },
+  "months": 120,
+  "point": 0.5,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13f08"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004afc"
+  },
+  "months": 180,
+  "point": 0.75,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13f3a"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004afd"
+  },
+  "months": 240,
+  "point": 1,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010b"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0780fad",
+  "thisUUID": "OxygenRelease606ef08b13f6a"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004afe"
+  },
+  "months": 1.2000000000000002,
+  "point": 0,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b14351"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004aff"
+  },
+  "months": 6,
+  "point": 0.01,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b1439d"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b00"
+  },
+  "months": 12,
+  "point": 0.03,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b143cf"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b01"
+  },
+  "months": 24,
+  "point": 0.05,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b14403"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b02"
+  },
+  "months": 36,
+  "point": 0.08,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b14432"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b03"
+  },
+  "months": 48,
+  "point": 0.1,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b14463"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b04"
+  },
+  "months": 60,
+  "point": 0.13,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b14492"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b05"
+  },
+  "months": 72,
+  "point": 0.15,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b144c1"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b06"
+  },
+  "months": 84,
+  "point": 0.18,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b144ef"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b07"
+  },
+  "months": 96,
+  "point": 0.2,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b1451e"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b08"
+  },
+  "months": 108,
+  "point": 0.23,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b1454c"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b09"
+  },
+  "months": 120,
+  "point": 0.25,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b1457b"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b0a"
+  },
+  "months": 180,
+  "point": 0.38,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b145a9"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b0b"
+  },
+  "months": 240,
+  "point": 0.5,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010c"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef078171e",
+  "thisUUID": "OxygenRelease606ef08b145d8"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b0c"
+  },
+  "months": 1.2000000000000002,
+  "point": 0,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b14917"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b0d"
+  },
+  "months": 6,
+  "point": 0.01,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b14957"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b0e"
+  },
+  "months": 12,
+  "point": 0.01,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b14986"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b0f"
+  },
+  "months": 24,
+  "point": 0.03,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b149b3"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b10"
+  },
+  "months": 36,
+  "point": 0.04,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b149e0"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b11"
+  },
+  "months": 48,
+  "point": 0.05,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b14a0f"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b12"
+  },
+  "months": 60,
+  "point": 0.06,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b14a3e"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b13"
+  },
+  "months": 72,
+  "point": 0.08,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b14a6b"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b14"
+  },
+  "months": 84,
+  "point": 0.09,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b14a97"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b15"
+  },
+  "months": 96,
+  "point": 0.1,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b14ac4"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b16"
+  },
+  "months": 108,
+  "point": 0.11,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b14af0"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b17"
+  },
+  "months": 120,
+  "point": 0.13,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b14b1d"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b18"
+  },
+  "months": 180,
+  "point": 0.19,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b14b49"
+},{
+  "_id": {
+    "$oid": "606ef08b6c06000051004b19"
+  },
+  "months": 240,
+  "point": 0.25,
+  "category": {
+    "$ref": "TreeCategory",
+    "$id": {
+      "$oid": "6064ef07885a00003c00010d"
+    }
+  },
+  "categoryUUID": "treeCategory6064ef0781bc5",
+  "thisUUID": "OxygenRelease606ef08b14b7c"
+}]

@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6064ef07885a00003c000100"
+  },
+  "name": "0 month",
+  "metaCode": "0_MONTHS",
+  "thisUUID": "repeatMeta6064ef0767416"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c000101"
+  },
+  "name": "3 months",
+  "metaCode": "3_MONTHS",
+  "thisUUID": "repeatMeta6064ef076ebf9"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c000102"
+  },
+  "name": "6 months",
+  "metaCode": "6_MONTHS",
+  "thisUUID": "repeatMeta6064ef076f3b0"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c000103"
+  },
+  "name": "9 months",
+  "metaCode": "9_MONTHS",
+  "thisUUID": "repeatMeta6064ef076fb62"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c000104"
+  },
+  "name": "12 months",
+  "metaCode": "12_MONTHS",
+  "thisUUID": "repeatMeta6064ef07703bf"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c000105"
+  },
+  "name": "15 months",
+  "metaCode": "15_MONTHS",
+  "thisUUID": "repeatMeta6064ef0770c10"
+}]

@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000e2"
+  },
+  "roleName": "User",
+  "metaCode": "ROLE_USER",
+  "thisUUID": "role6064ef0748c26"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000e3"
+  },
+  "roleName": "Admin",
+  "metaCode": "ROLE_ADMIN",
+  "thisUUID": "role6064ef0752af2"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000e4"
+  },
+  "roleName": "Super Admin",
+  "metaCode": "ROLE_SUPER_ADMIN",
+  "thisUUID": "role6064ef0752e0f"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000e5"
+  },
+  "roleName": "Group Admin",
+  "metaCode": "ROLE_GROUP_ADMIN",
+  "thisUUID": "role6064ef07530a5"
+}]

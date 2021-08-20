@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "606ff04d015b0000bd006377"
+  },
+  "badgeName": "Treebie",
+  "metaCode": "TREEBIE",
+  "upperLimit": 1,
+  "bottomLimit": 0,
+  "thisUUID": "Badges606ff04d6a5d9",
+  "image": "/img/badges/Treebie.png"
+},{
+  "_id": {
+    "$oid": "606ff04d015b0000bd006378"
+  },
+  "badgeName": "Treehugger",
+  "metaCode": "TREEHUGGER",
+  "upperLimit": 5,
+  "bottomLimit": 2,
+  "thisUUID": "Badges606ff04d731e8",
+  "image": "/img/badges/Treehugger.png"
+},{
+  "_id": {
+    "$oid": "606ff04d015b0000bd006379"
+  },
+  "badgeName": "Treefic",
+  "metaCode": "TREEFIC",
+  "upperLimit": 10,
+  "bottomLimit": 6,
+  "thisUUID": "Badges606ff04d73228",
+  "image": "/img/badges/Treefic.png"
+},{
+  "_id": {
+    "$oid": "606ff04d015b0000bd00637a"
+  },
+  "badgeName": "Forester",
+  "metaCode": "FORESTER",
+  "upperLimit": 50,
+  "bottomLimit": 11,
+  "thisUUID": "Badges606ff04d73262",
+  "image": "/img/badges/Forester.png"
+},{
+  "_id": {
+    "$oid": "606ff04d015b0000bd00637b"
+  },
+  "badgeName": "Naturalist",
+  "metaCode": "NATURALIST",
+  "upperLimit": 100,
+  "bottomLimit": 51,
+  "thisUUID": "Badges606ff04d7329d",
+  "image": "/img/badges/Naturalist.png"
+},{
+  "_id": {
+    "$oid": "606ff04d015b0000bd00637c"
+  },
+  "badgeName": "Jungle Lord",
+  "metaCode": "JUNGLE_LORD",
+  "upperLimit": 200,
+  "bottomLimit": 101,
+  "thisUUID": "Badges606ff04d732d1",
+  "image": "/img/badges/Jungle_Lord.png"
+},{
+  "_id": {
+    "$oid": "606ff04d015b0000bd00637d"
+  },
+  "badgeName": "Green Master",
+  "metaCode": "GREEN_MASTER",
+  "upperLimit": 500,
+  "bottomLimit": 201,
+  "thisUUID": "Badges606ff04d73309",
+  "image": "/img/badges/Green_Master.png"
+},{
+  "_id": {
+    "$oid": "606ff04d015b0000bd00637e"
+  },
+  "badgeName": "Green Emperor",
+  "metaCode": "GREEN_EMPEROR",
+  "upperLimit": 1000,
+  "bottomLimit": 501,
+  "thisUUID": "Badges606ff04d73340",
+  "image": "/img/badges/Green_Emperor.png"
+},{
+  "_id": {
+    "$oid": "606ff04d015b0000bd00637f"
+  },
+  "badgeName": "Tree God",
+  "metaCode": "TREE_GOD",
+  "upperLimit": 2000,
+  "bottomLimit": 1001,
+  "thisUUID": "Badges606ff04d73376",
+  "image": "/img/badges/Tree_God.png"
+},{
+  "_id": {
+    "$oid": "606ff04d015b0000bd006380"
+  },
+  "badgeName": "Savior of the World",
+  "metaCode": "SAVIOR_OF_THE_WORLD",
+  "upperLimit": 5000,
+  "bottomLimit": 2001,
+  "thisUUID": "Badges606ff04d733aa",
+  "image": "/img/badges/Savior_of_the_world.png"
+}]

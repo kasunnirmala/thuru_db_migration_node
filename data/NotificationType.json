@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6064ef07885a00003c000106"
+  },
+  "typeName": "post",
+  "metaCode": "POST",
+  "thisUUID": "notificationType6064ef0771238"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c000107"
+  },
+  "typeName": "post comment",
+  "metaCode": "POST_COMMENT",
+  "thisUUID": "notificationType6064ef0779382"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c000108"
+  },
+  "typeName": "Tree Alert",
+  "metaCode": "TREE_ALERT",
+  "thisUUID": "notificationType6064ef07797b1"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c000109"
+  },
+  "typeName": "post like",
+  "metaCode": "POST_LIKE",
+  "thisUUID": "notificationType6064ef0779d97"
+}]

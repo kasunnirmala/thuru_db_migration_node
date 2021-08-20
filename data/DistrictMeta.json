@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000e6"
+  },
+  "district": "Ampara",
+  "metaCode": "AMPARA",
+  "thisUUID": "districtMeta6064ef075330e"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000e7"
+  },
+  "district": "Anuradhapura",
+  "metaCode": "ANURADHAPURA",
+  "thisUUID": "districtMeta6064ef075a533"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000e8"
+  },
+  "district": "Badulla",
+  "metaCode": "BADULLA",
+  "thisUUID": "districtMeta6064ef075a974"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000e9"
+  },
+  "district": "Batticaloa",
+  "metaCode": "BATTICALOA",
+  "thisUUID": "districtMeta6064ef075ad9a"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000ea"
+  },
+  "district": "Galle",
+  "metaCode": "GALLE",
+  "thisUUID": "districtMeta6064ef075b0e4"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000eb"
+  },
+  "district": "Gampaha",
+  "metaCode": "GAMPAHA",
+  "thisUUID": "districtMeta6064ef075b4a4"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000ec"
+  },
+  "district": "Hambantota",
+  "metaCode": "HAMBANTOTA",
+  "thisUUID": "districtMeta6064ef075b8d1"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000ed"
+  },
+  "district": "Jaffna",
+  "metaCode": "JAFFNA",
+  "thisUUID": "districtMeta6064ef075be65"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000ee"
+  },
+  "district": "Kalutara",
+  "metaCode": "KALUTARA",
+  "thisUUID": "districtMeta6064ef075c0fe"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000ef"
+  },
+  "district": "Kandy",
+  "metaCode": "KANDY",
+  "thisUUID": "districtMeta6064ef075c3aa"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000f0"
+  },
+  "district": "Kegalle",
+  "metaCode": "KEGALLE",
+  "thisUUID": "districtMeta6064ef075c638"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000f1"
+  },
+  "district": "Kilinochchi",
+  "metaCode": "KILLINOCHCHI",
+  "thisUUID": "districtMeta6064ef075c8b9"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000f2"
+  },
+  "district": "Kurunegala",
+  "metaCode": "KURUNEGALA",
+  "thisUUID": "districtMeta6064ef075cba7"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000f3"
+  },
+  "district": "Mannar",
+  "metaCode": "MANNAR",
+  "thisUUID": "districtMeta6064ef075cf48"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000f4"
+  },
+  "district": "Matale",
+  "metaCode": "MATALE",
+  "thisUUID": "districtMeta6064ef075d1eb"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000f5"
+  },
+  "district": "Matara",
+  "metaCode": "MATARA",
+  "thisUUID": "districtMeta6064ef075d51a"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000f6"
+  },
+  "district": "Monaragala",
+  "metaCode": "MONARAGALA",
+  "thisUUID": "districtMeta6064ef075d7a8"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000f7"
+  },
+  "district": "Mullaitivu",
+  "metaCode": "MULLATIVU",
+  "thisUUID": "districtMeta6064ef075da77"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000f8"
+  },
+  "district": "Nuwara Eliya",
+  "metaCode": "NUWARA_ELIYA",
+  "thisUUID": "districtMeta6064ef075dd42"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000f9"
+  },
+  "district": "Polonnaruwa",
+  "metaCode": "POLONNARUWA",
+  "thisUUID": "districtMeta6064ef075e014"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000fa"
+  },
+  "district": "Puttalam",
+  "metaCode": "PUTTALAM",
+  "thisUUID": "districtMeta6064ef075e2ff"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000fb"
+  },
+  "district": "Ratnapura",
+  "metaCode": "RATNAPURA",
+  "thisUUID": "districtMeta6064ef075e5d9"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000fc"
+  },
+  "district": "Trincomalee",
+  "metaCode": "TRINCOMALEE",
+  "thisUUID": "districtMeta6064ef075e89b"
+},{
+  "_id": {
+    "$oid": "6064ef07885a00003c0000fd"
+  },
+  "district": "Vavuniya",
+  "metaCode": "VAVUNIYA",
+  "thisUUID": "districtMeta6064ef075eb9f"
+}]
